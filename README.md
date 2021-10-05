@@ -54,3 +54,77 @@
 ### Html
 
 1. audio标签实现音乐播放，并且有一些控制播放的接口
+
+## faq-collapse
+
+### CSS
+
+1. font绘制图片，以及伪类绘制
+2. 通过display实现一种collapse
+
+## Random Choice Picker
+
+### JS
+
+1. 通过JS监听键盘事件，实现标签添加
+2. 通过定时器实现随机选择
+
+## Animate Navigation
+
+### CSS
+
+1. linear-gradient，线性插值实现渐变背景色
+2. 
+
+## Drink Water
+
+### JS
+
+1. 通过JS进行点击事件的控制，通过JS从而控制class从而通过CSS切换状态
+
+### CSS
+
+1. 常规通过transition: 进行动画控制
+
+## Movie App
+
+### JS
+
+1. fetch拉取数据
+2. 通过后端封装API进行搜索
+
+### CSS
+
+1. 当没有hover属性通过position让元素消失于div中，通过:hover transition
+
+## Background Slider
+
+### CSS
+
+1. ::before 伪类实现蒙版效果
+
+## Theme Clock
+
+### JS
+
+1. 定时器， date对象获取时间
+
+### CSS
+
+1. rotate属性实现旋转
+2. border-radius旋转
+
+## Button Ripple Effect
+
+### HTML
+
+1. 通过在button下添加一个circle实现效果
+
+### JS
+
+1. click通过点击位置更新circle位置
+
+### CSS
+
+1. 通过circle的动画实现波动效果
+
