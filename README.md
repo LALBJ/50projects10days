@@ -128,3 +128,35 @@
 
 1. 通过circle的动画实现波动效果
 
+## Drag N Drop
+
+### CSS
+
+1. border-style: dashed 将边框设置为虚线效果
+
+## Drawing App
+
+### CSS
+
+1. flex中，margin-left: auto可以实现居于最右
+
+### JS
+
+1. 通过canvas.getContext方法获取画布对象，之后使用画布API进行绘制。
+
+## Kinetic Loader
+
+### CSS
+
+1. 新的绘制三角形的方法，border四边透明，然后控制border-bottom底边设置颜色绘制
+2. animation 设置动画， infinite动画无尽播放
+
+## Position Navbar
+
+### HTML
+
+1. 语义化标签
+
+### CSS
+
+1. 通过fixed实现sticky效果
