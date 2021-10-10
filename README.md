@@ -160,3 +160,46 @@
 ### CSS
 
 1. 通过fixed实现sticky效果
+
+## Double Vertical Slider
+
+### JS
+
+1. JS通过序列设置div的transform
+
+### CSS
+
+1. 通过CSS实现div的transition
+
+## Toast Notification
+
+### JS
+
+1. 通过监听点击事件，点击后生成div实例。
+2. 并且通过setTimeout定时销毁已经声明的实例
+
+## Hoverboard
+
+### JS
+
+1. 添加Mouseenter与 Mouseout的事件监听
+
+### CSS
+
+1. box-shadow: x偏移量 y偏移量 阴影半径 扩散半径 颜色
+2. display的换行新方式，指定父组件的max-width，并且display设置为flex，子组件只需要指定宽度即可
+   不用进行flex的设置
+
+## Pokedex
+
+一种效果不错的卡片展示方式
+
+### CSS
+
+1. linear-gradient()
+
+## Password Strength Background
+
+### CSS
+
+1. filter设置滤镜
