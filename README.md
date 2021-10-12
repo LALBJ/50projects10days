@@ -203,3 +203,40 @@
 ### CSS
 
 1. filter设置滤镜
+
+## Verify Your Account
+
+### JS
+
+1. 通过focus()函数使得下一个输入框被激活
+
+### CSS
+
+1. 在输入框为输入、focus以及有输入值后的情况下分别设置不同的css，使得用户体验更好
+
+## Live User Filter
+
+### JS
+
+1. 实现根据用户输入内容进行过滤
+
+### CSS
+
+1. 通过为元素添加class进行过滤，display:none，不会进行渲染（opacity:0, visibility: hidden都会渲染出来只是不会显示）
+
+## Custom Range Slider
+
+### JS
+
+1. JS计算label的位置，并且进行更新
+2. 有用的API：nextElementSibling\getComputedStyle(Dom对象).getPropertyValue(CSS属性名)
+
+### CSS
+
+1. 针对不同浏览器内核的处理方式
+
+## Netflix Mobile Navigation
+
+### HTML
+
+1. 通过div堆叠的方式实现一个非常好的展示效果，很有层次感
