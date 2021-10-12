@@ -240,3 +240,24 @@
 ### HTML
 
 1. 通过div堆叠的方式实现一个非常好的展示效果，很有层次感
+
+## Quiz App
+
+### HTML
+
+1. label 通过for属性与input进行绑定
+
+## TODO List
+
+### HTML
+
+1. 语义化标签，<small>
+
+### JS
+
+1. 通过localstorage 存储
+
+### CSS
+
+1. text-decoration: line-through; 实现删除线效果
+
